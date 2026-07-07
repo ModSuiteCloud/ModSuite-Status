@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.modsuite.cloud.ico",
     "slug": "mod-suite-cloud",
     "status": "up",
-    "uptime": "94.14%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "94.14%",
-    "uptimeMonth": "94.14%",
-    "uptimeYear": "94.14%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 216,
     "timeDay": 216,
     "timeWeek": 216,
     "timeMonth": 216,
     "timeYear": 216,
-    "dailyMinutesDown": {
-      "2026-07-07": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]

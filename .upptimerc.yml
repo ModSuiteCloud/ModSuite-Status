@@ -18,14 +18,14 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ModSuite Status
   introTitle: "**ModSuite** Status and uptime monitor."
-  introMessage: See below the status of ModSuite's services in real-time.
+  introMessage: See below the status of ModSuite services in real-time.
   navbar:
     - title: Go to app
       href: https://modsuite.cloud
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/ModSuiteCloud/
+      href: https://github.com/ModSuiteCloud/ModSuite-Status
     - title: Discord
       href: https://discord.gg/yagZvY3ajb
 

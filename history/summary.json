@@ -22,17 +22,17 @@
     "url": "https://api.modsuite.cloud/api/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/api.modsuite.cloud.ico",
     "slug": "mod-suite-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 281,
-    "timeWeek": 281,
-    "timeMonth": 265,
-    "timeYear": 252,
+    "time": 251,
+    "timeDay": 243,
+    "timeWeek": 272,
+    "timeMonth": 263,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   }
 ]

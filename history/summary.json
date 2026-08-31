@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 643,
-    "timeWeek": 356,
-    "timeMonth": 400,
-    "timeYear": 367,
+    "time": 369,
+    "timeDay": 457,
+    "timeWeek": 362,
+    "timeMonth": 402,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.modsuite.cloud.ico",
     "slug": "mod-suite-cloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 243,
-    "timeWeek": 272,
-    "timeMonth": 263,
-    "timeYear": 251,
-    "dailyMinutesDown": {}
+    "uptime": "98.81%",
+    "uptimeDay": "34.55%",
+    "uptimeWeek": "90.65%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "98.81%",
+    "time": 250,
+    "timeDay": 198,
+    "timeWeek": 252,
+    "timeMonth": 259,
+    "timeYear": 250,
+    "dailyMinutesDown": {
+      "2026-08-31": 285,
+      "2026-08-30": 657
+    }
   }
 ]
